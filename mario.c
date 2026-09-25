@@ -20,4 +20,6 @@ int main(void){
         }
         printf("\n");
     }
+
+    printf("Luigi\n");
 }
